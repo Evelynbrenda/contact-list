@@ -32,12 +32,15 @@ src/
 Instale as dependencias:
 
   npm install
+  
   Se preferir, voce tambem pode usar yarn install ou pnpm install.
 
 Inicie o projeto:
 
   npx expo start
+  
   Abra no ambiente desejado:
+  
   Android Emulator
   iOS Simulator
   Expo Go
